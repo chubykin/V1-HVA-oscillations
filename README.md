@@ -1,2 +1,2 @@
 # V1-HVA-oscillations
-Data Analysis of V1 and HVA oscillations
+Data analysis scripts of V1 and HVA oscillations
